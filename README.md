@@ -1,2 +1,2 @@
 # Prep
-This repository contains Leetcode problems and my solutions
+This repository contains a bunch of concepts I need reminders on in Python
